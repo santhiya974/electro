@@ -7,7 +7,7 @@ This project includes product listing, cart functionality, and a clean modern UI
 
 ## 🌐 Live Demo
 
-🔗 [Click Here to View Website](YOUR_HOST_LINK_HERE)
+🔗 [Click Here to View Website](https://electro-shops.netlify.app/)
 
 ---
 
