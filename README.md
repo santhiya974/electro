@@ -42,4 +42,25 @@ This project includes product listing, cart functionality, and a clean modern UI
 
 ## 🚀 How to Run Locally
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/santhiya974/electro.git
+2. Open the project folder
+
+3. Open `index.html` in your browser  
+OR use Live Server in VS Code
+
+---
+
+## 📌 Future Improvements
+
+- Payment Gateway Integration
+- User Authentication
+- Backend Integration (Node + MongoDB)
+- Order History Feature
+
+---
+
+## 👩‍💻 Author
+
+Santhiya R
+
+
